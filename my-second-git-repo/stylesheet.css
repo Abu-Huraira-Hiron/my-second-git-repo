@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+
+}
+
+.navbar{
+    height: 60px;
+    background-color: black;
+    color:white;
+    display: flex;
+
+
+}
+
+.nav-logo{
+    height: 50px;
+    width: 100px;
+
+}
+.logo{
+    background-image: url(pic/amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width:100%;
+
+
+}
+
+/* second blog */
+
+.add.icon{
+    display: flex;
+}
