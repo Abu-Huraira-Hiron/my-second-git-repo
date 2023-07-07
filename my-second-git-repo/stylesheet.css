@@ -34,3 +34,36 @@
 #item:hover{
     color: aqua;
 }
+
+.banar-contyner{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    border: 2px solid gray;
+    background-image: url(./pic/milky-way-gbd1b8372d_640.jpg);
+
+}
+
+.joty{
+    color: wheat;
+    font-size: 50px;
+
+}
+
+.discis{
+    color: blueviolet;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.btn{
+   
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
